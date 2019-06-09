@@ -1,5 +1,5 @@
 #######################################################################################################
-
+#This code collects record of all ODI cricket players ever and their yearly performance. 
 #Source of information "www.howstat.com"
 #Packages used:
 #               BeautifulSoup4
